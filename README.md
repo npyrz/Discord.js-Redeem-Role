@@ -15,7 +15,7 @@ https://github.com/HypnoticSiege
   Email: *neoptunium@gmail.com*
 
 # Dependencies 
-discord.js 
+discord.js (Note this requires you to use an older version of discord.js, I used v12.5.3)
 
 enmap
 
