@@ -21,6 +21,6 @@ discord.js
 
 fs
 
-config.json (Need to add data to "`clientID`", "`guildID`", "`token`", "`embedColo`r", "`roleID`")
+config.json (Need to add data to "`clientID`", "`guildID`", "`token`", "`embedColor`", "`roleID`")
 
 *Note:* The "`clientID`" is the discord bot's Client ID
